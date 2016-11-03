@@ -1,4 +1,5 @@
 {
+  "name": "erc-js-import",
   "dependencies": {
     "erc-js": "louismullie/erc-js"
   }
